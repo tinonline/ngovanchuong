@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on #ngovanchuong</title>
+    <link>https://ngovanchuong.com/categories/</link>
+    <description>Recent content in Categories on #ngovanchuong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 07:52:27 +0700</lastBuildDate>
+    
+	<atom:link href="https://ngovanchuong.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chuyện đời vớ vẩn</title>
+      <link>https://ngovanchuong.com/chuyen-muc/chuyen-%C4%91oi-vo-van/</link>
+      <pubDate>Fri, 20 Sep 2019 07:52:27 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/chuyen-muc/chuyen-%C4%91oi-vo-van/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ngày xưa có một chuyện tình</title>
+      <link>https://ngovanchuong.com/chuyen-muc/ngay-xua-co-mot-chuyen-tinh/</link>
+      <pubDate>Thu, 19 Sep 2019 16:10:59 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/chuyen-muc/ngay-xua-co-mot-chuyen-tinh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quán cò</title>
+      <link>https://ngovanchuong.com/chuyen-muc/quan-co/</link>
+      <pubDate>Thu, 19 Sep 2019 16:06:55 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/chuyen-muc/quan-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dốc tình</title>
+      <link>https://ngovanchuong.com/chuyen-muc/doc-tinh/</link>
+      <pubDate>Tue, 10 Sep 2019 09:53:02 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/chuyen-muc/doc-tinh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

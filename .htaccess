@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/categories/(.*)
+RewriteRule ^categories/(.*)$ https://%{HTTP_HOST}/categories2/$1 [R=301,L]

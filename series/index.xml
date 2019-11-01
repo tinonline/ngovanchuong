@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on #ngovanchuong</title>
+    <link>https://ngovanchuong.com/series/</link>
+    <description>Recent content in Series on #ngovanchuong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 07:52:27 +0700</lastBuildDate>
+    
+	<atom:link href="https://ngovanchuong.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ký ức vụn</title>
+      <link>https://ngovanchuong.com/truyen-dai/ky-uc-vun/</link>
+      <pubDate>Fri, 20 Sep 2019 07:52:27 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/truyen-dai/ky-uc-vun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Những mối tình</title>
+      <link>https://ngovanchuong.com/truyen-dai/nhung-moi-tinh/</link>
+      <pubDate>Tue, 10 Sep 2019 09:53:02 +0700</pubDate>
+      
+      <guid>https://ngovanchuong.com/truyen-dai/nhung-moi-tinh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

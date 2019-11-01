@@ -1,0 +1,1 @@
+ul,#myUL{list-style-type:none}#myUL{margin:0;padding:0}.box{cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-weight:700}.box::before{content:"\25B6";color:#000;display:inline-block;margin-right:6px}.check-box::before{transform:rotate(90deg);color:#1e90ff}.nested{display:none;font-size:14px}.active{display:block}

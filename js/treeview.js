@@ -1,0 +1,1 @@
+var a=document.getElementsByClassName("box"),b;for(b=0;b<a.length;b++)a[b].addEventListener("click",function(){this.parentElement.querySelector(".nested").classList.toggle("active");this.classList.toggle("check-box")});
